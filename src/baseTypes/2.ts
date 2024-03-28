@@ -3,7 +3,7 @@ JavaScript змінна може зберігати значення будь-я
 */
 
 let anything: any = -20;
-anything = 'Text';
+anything = "Text";
 anything = {};
 
 export {};

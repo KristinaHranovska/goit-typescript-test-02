@@ -11,7 +11,7 @@ function calc(num1, num2): number {
 }
 
 function customError(): never {
-  throw new Error('Error');
+  throw new Error("Error");
 }
 
 export {};
