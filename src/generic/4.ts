@@ -15,4 +15,4 @@ class Page<U extends ComponentProps> extends Component<U> {
   }
 }
 
-export {};
+export { ComponentProps, Page };

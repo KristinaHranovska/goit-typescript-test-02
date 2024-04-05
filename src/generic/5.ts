@@ -8,4 +8,4 @@ interface KeyValuePair<K, V> {
   value: V;
 }
 
-export {};
+export { KeyValuePair };

@@ -12,4 +12,4 @@ getPromise().then((data) => {
   console.log(data);
 });
 
-export {};
+export { getPromise };
