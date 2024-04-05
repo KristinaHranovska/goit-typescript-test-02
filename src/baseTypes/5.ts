@@ -5,3 +5,6 @@
 
 let union: string | number;
 let literal: "enable" | "disable";
+
+
+export { union, literal };

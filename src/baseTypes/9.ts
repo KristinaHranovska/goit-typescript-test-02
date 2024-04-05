@@ -31,4 +31,4 @@ const page2: Information = {
   status: "close",
 };
 
-export {};
+export { Information, page1, page2 };

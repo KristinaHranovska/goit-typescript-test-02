@@ -9,6 +9,6 @@ if (typeof some === "string") {
   str = some;
 }
 
-export {};
+export { some, str };
 
 // Що потрібно виправити в цьому коді, щоб він став правильним та безпечним?
